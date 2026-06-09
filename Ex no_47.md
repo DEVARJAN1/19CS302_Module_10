@@ -6,7 +6,7 @@ To write a C function to insert a node in a linked list.
 ## Algorithm:
 1. Start. 
 2. Define a variables. 
-3. Write a function to insert a node in a linked list. 
+3. Write a function to insert a node in a linked list.  
 4. Read the value using scanf. 
 5. Ask the user to make an input. 
 6. Print out the answer. 
