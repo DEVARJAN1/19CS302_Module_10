@@ -15,7 +15,7 @@ To write a C function to search an element in the doubly linked list.
 ## Program:
 ```
 struct Node
-{
+{ 
     struct Node *prev;
     struct Node *next;
     char data;
