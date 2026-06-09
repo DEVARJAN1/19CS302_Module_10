@@ -6,7 +6,7 @@ To write a C function to delete a node from a Doubly Linked List at the beginnin
 ## Algorithm:
 1. Start. 
 2. Define a variables. 
-3. Write a function to perform all basic operations. 
+3. Write a function to perform all basic operations.  
 4. Read the value using scanf. 
 5. Ask the user to make an input. 
 6. Print out the answer. 
