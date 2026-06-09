@@ -10,7 +10,7 @@ To write a C functions to perform all basic operations in Doubly Linked List.
 4. Read the value using scanf. 
 5. Ask the user to make an input. 
 6. Print out the answer. 
-7. End
+7. End 
    
 ## Program:
 ```
